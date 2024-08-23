@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Key Insights from Hotel Booking Analysis - Artem Matviienko Portfolio</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload">
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <!-- Header -->
+    <header id="header">
+        <a href="index.html" class="logo">Artem Matviienko</a>
+    </header>
+
+    <!-- Nav -->
+    <nav id="nav">
+        <ul class="links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="hotel_booking_analysis.html">Hotel Booking Analysis</a></li>
+            <!-- Add more navigation items as needed -->
+        </ul>
+        <ul class="icons">
+            <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+            <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+            <li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+        </ul>
+    </nav>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- Post -->
+        <section class="post">
+            <header class="major">
+                <span class="date">August 23, 2024</span>
+                <h1>Key Insights from Hotel Booking Analysis</h1>
+                <p>Analyzing hotel booking data to uncover trends and opportunities for enhancing revenue and guest experiences.</p>
+            </header>
+
+            <p>Our detailed analysis of hotel booking data has highlighted several crucial trends that can significantly influence operational strategies and marketing approaches. Here’s a summary of the key insights:</p>
+
+            <h2>Seasonal Patterns</h2>
+            <p>Bookings reach their peak in July and August, with a noticeable decline during the winter months. This seasonal trend points to opportunities for tailored marketing campaigns and dynamic pricing strategies to capitalize on high-demand periods and address off-season lulls.</p>
+
+            <h2>Hotel Type Preferences</h2>
+            <p>City Hotels dominate bookings, accounting for approximately 60% of total reservations, surpassing Resort Hotels. This trend suggests a higher preference for urban destinations, which may be driven by business travel and city tourism.</p>
+
+            <h2>High Cancellation Rate</h2>
+            <p>A significant challenge is the high cancellation rate, with nearly 37% of bookings being canceled. Addressing this issue is critical for revenue management, potentially through improved cancellation policies or incentivized booking confirmations.</p>
+
+            <h2>Customer Segmentation</h2>
+            <p>The majority of bookings come from transient travelers. Understanding the needs and preferences of individual travelers can help in tailoring services and offers to enhance guest satisfaction.</p>
+
+            <h2>Pricing Trends</h2>
+            <p>The average daily rates fluctuate in response to seasonal demand, indicating the presence of dynamic pricing strategies. This trend suggests that the pricing model adjusts well to demand variations but might benefit from further optimization.</p>
+
+            <h2>Length of Stay</h2>
+            <p>While most stays are short-term (1-3 nights), there is a significant portion of longer stays (4-7 nights). This variation in stay length could inform the development of targeted packages and booking policies to cater to different guest needs.</p>
+
+            <h2>Revenue Patterns</h2>
+            <p>Monthly revenue trends closely follow booking patterns, emphasizing the impact of seasonal fluctuations on financial performance. Understanding these patterns can aid in forecasting and financial planning.</p>
+
+            <h2>Conclusion</h2>
+            <p>These insights provide a solid foundation for making data-driven decisions in marketing, pricing, and operational strategies. The high cancellation rate, in particular, presents an opportunity for improvement. By leveraging these findings, hotels can enhance guest experiences, optimize revenue, and remain competitive in the evolving hospitality industry.</p>
+
+        </section>
+
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <!-- Add your footer content here -->
+    </footer>
+
+    <!-- Copyright -->
+    <div id="copyright">
+        <ul><li>&copy; Artem Matviienko</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+    </div>
+
+</div>
+
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/browser.min.js"></script>
+<script src="assets/js/breakpoints.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>
